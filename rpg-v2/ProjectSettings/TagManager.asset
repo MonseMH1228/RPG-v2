@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - portal1
+  - portal1r
+  - portal2
+  - portal2r
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 2425651459
+    locked: 0
+  - name: Flores
+    uniqueID: 534310293
+    locked: 0
+  - name: Enemigos
+    uniqueID: 2019776577
+    locked: 0
+  - name: Player
+    uniqueID: 4189426099
+    locked: 0
+  - name: Arboles
+    uniqueID: 4250941897
+    locked: 0
